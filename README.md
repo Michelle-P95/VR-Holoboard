@@ -1,7 +1,7 @@
 # VR-Holoboard
  
  ### Konzeptentwicklung
- - VR Arbeitsumgebung für KOnferenzen mit einem 3D-Hologram-Tisch
+ - VR Arbeitsumgebung für Konferenzen mit einem 3D-Hologram-Tisch
 
 <img width="475" alt="Bildschirmfoto 2021-10-13 um 00 54 38" src="https://user-images.githubusercontent.com/56310257/137039673-91c2af4a-a786-41b5-bfc0-6a75e706c0c4.png">
 
