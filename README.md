@@ -3,18 +3,20 @@
  ### Konzeptentwicklung
  - VR Arbeitsumgebung für KOnferenzen mit einem 3D-Hologram-Tisch
 
+<img width="475" alt="Bildschirmfoto 2021-10-13 um 00 54 38" src="https://user-images.githubusercontent.com/56310257/137039673-91c2af4a-a786-41b5-bfc0-6a75e706c0c4.png">
+
 
 ### Dokumente
 1. finales Konzept
 2. Pitch Präsentation
 3. Dokumentation über Konzept-Entwicklungsverlauf
 
-### zu finden in den Dokumenten
-- Use Cases & Diagramme dazu
-- Benchmarking
-- Features- & Designbegründungen
-- Problem- und Lösungsstellung
- 
+ ### zu finden in den Dokumenten
+
+ - Use Cases & Diagramme dazu
+ - Benchmarking
+ - Features- & Designbegründungen
+ - Problem- und Lösungsstellung
 
   ______________________________________________
  
@@ -26,9 +28,9 @@
  
  
  ### Have a look at our Documentations
- - 1. final concept
- - 2. pitch praesentation
- - 3. documentation about develop progress of concept
+ 1. final concept
+ 2. pitch praesentation
+ 3. documentation about develop progress of concept
 
 ### what you can find 
 - Use Cases & diagramms
