@@ -5,9 +5,9 @@
 
 
 ### Dokumente
-- finales Konzept
-- Pitch Präsentation
-- Dokumentation über Konzept-Entwicklungsverlauf
+1. finales Konzept
+2. Pitch Präsentation
+3. Dokumentation über Konzept-Entwicklungsverlauf
 
 ### zu finden in den Dokumenten
 - Use Cases & Diagramme dazu
